@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NalivSvyatov_8" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/btn_exit</item>
+        <item name="colorPrimaryDark">@color/btn_exit</item>
+        <item name="colorAccent">@color/btn_exit</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

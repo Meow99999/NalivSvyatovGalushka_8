@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NalivSvyatov_8</string>
+    <string name="textview_anonim">Аноним</string>
+    <string name="btn_changeavatar">Изменить аватарку</string>
+    <string name="btn_changepswd">Изменить пароль</string>
+    <string name="btn_changename">Изменить имя</string>
+    <string name="btn_exit">Выход</string>
+    <string name="_123">123</string>
+</resources>
